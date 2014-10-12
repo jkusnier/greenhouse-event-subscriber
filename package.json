@@ -1,0 +1,17 @@
+{
+  "name": "greenhouse-event-subscriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Kusnier",
+  "license": "ISC",
+  "dependencies": {
+    "json5": "^0.2.0",
+    "mongoskin": "^1.4.4",
+    "spark": "^0.2.1",
+    "xtend": "^4.0.0"
+  }
+}
